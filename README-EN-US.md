@@ -1,19 +1,21 @@
 # ANTÔNIO ERISMAR ALBUQUERQUE DE FREITAS
 
-> Systems Analyst and Developer  
-> (83) 9 9603-8843 (Tim) | (83) 9 9408-3157 (Claro)  
-> antonio.erismar@gmail.com | antonio.erismar@outlook.com  
-> https://br.linkedin.com/in/antonioerismar | https://github.com/devAlbuquerque
+> Systems Analyst and Developer Senior  
+**Phone:** (83) 9 9603-8843 (Tim) | (83) 9 9408-3157 (Claro)  
+**E-mail:** contato@albuquerque.eti.br | antonio.erismar@gmail.com  
+**Profile:** [LinkedIN](https://br.linkedin.com/in/antonioerismar) | [GitHub](https://github.com/devAlbuquerque) | [Site Pessoal](http://www.albuquerque.eti.br/)  
   
-## :man_technologist: Profile
+## 👨‍💻 Profile
 
-:heavy_check_mark: Great experience in supervising activities in the area of ​​development of computational systems, and in their development. Known for exceeding expectations on projects in terms of results, deadlines and all related deliverables.
+✔️ Great experience in supervising activities in the area of ​​development of computational systems, and in their development. Known for exceeding expectations on projects in terms of results, deadlines and all related deliverables.
 
 ---
 
-## :man_office_worker: Professional experience
+## 👨‍💼 Professional experience
 
-* **System Analyst II, [ GFT ](https://www.gft.com/br/pt)** - (2021 - Currently)
+* **Senior Mendix/Java Developer, [Credsystem](https://www.credsystem.com.br/)** - (2023 - ***Currently***)
+  * Developing corporate backend solutions for finance projects
+* **System Analyst II, [ GFT ](https://www.gft.com/br/pt)** - (2021 - 2023)
   * Developing backend solutions for Mapfre projects
   * Operating in Credsystem's financial systems, through Mendix
 * **Senior Java Programmer, [ Meta ](https://www.meta.com.br/)** - (2021 - 2021)
@@ -37,14 +39,15 @@
 
 ---
 
-## :man_student: Education
+## 👨‍🎓 Education
 
-* :white_check_mark: **MBA in Digital Applications Projects** - (Graduate) 
-* :white_check_mark: **System Analysis and Development, IFPB Campus Cajazeiras** - (Higher Education)
+* 🔳 MBA - **Full Cycle Architecture (Solutions Architecture, Software Architecture, DevOps and SRE)** - (Graduate Student)
+* ✅ MBA - **Digital Applications Projects** 
+* ✅ Higher Education - **System Analysis and Development, IFPB Campus Cajazeiras**
 
 ---
 
-## :books: Educational Qualification
+## 📚 Educational Qualification
 
 * **Scrum Fundamentals Certified**, SCRUMstudy
 * **University Extension Project**, PIBICT-IFPB (Viability of the Development and Implementation of Information Technology Solutions in the hinterland Paraíba)
@@ -53,7 +56,7 @@
 
 ## 🛠 Skills
 
-> #### :muscle: Hard Skills
+> #### 💪 Hard Skills
 
 ##### **Back-end**
 
@@ -71,7 +74,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-> #### :sparkling_heart: Soft Skills
+> #### 💖 Soft Skills
 
 * Empathy
 * Leadership

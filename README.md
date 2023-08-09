@@ -1,21 +1,23 @@
 # ANTÔNIO ERISMAR ALBUQUERQUE DE FREITAS
 
-> Analista e Desenvolvedor de Sistemas  
-> (83) 9 9603-8843 (Tim) | (83) 9 9408-3157 (Claro)  
-> antonio.erismar@gmail.com | antonio.erismar@outlook.com  
-> https://br.linkedin.com/in/antonioerismar | https://github.com/devAlbuquerque
+> Analista e Desenvolvedor de Sistemas Senior  
+**Telefone:** (83) 9 9603-8843 (Tim) | (83) 9 9408-3157 (Claro)  
+**E-mail:** contato@albuquerque.eti.br | antonio.erismar@gmail.com  
+**Perfil:** [LinkedIN](https://br.linkedin.com/in/antonioerismar) | [GitHub](https://github.com/devAlbuquerque) | [Site Pessoal](http://www.albuquerque.eti.br/)  
   
-## :man_technologist: Perfil
+## 👨‍💻 Perfil
 
-:heavy_check_mark: Grande experiência na supervisão de atividades da área de desenvolvimento de sistemas computacionais, e no desenvolvimento dos mesmos. Conhecido por superar as expectativas nos projetos em termos de resultados, prazos e todas as entregas relacionadas.
+✔️ Grande experiência na supervisão de atividades da área de desenvolvimento de sistemas computacionais, e no desenvolvimento dos mesmos. Conhecido por superar as expectativas nos projetos em termos de resultados, prazos e todas as entregas relacionadas.
 
 ---
 
-## :man_office_worker: Experiência Profissional
+## 👨‍💼 Experiência Profissional
 
-* **Analista de Sistemas II, [GFT](https://www.gft.com/br/pt)** - (2021 - Atualmente)
+* **Desenvolvedor Senior Mendix/Java, [Credsystem](https://www.credsystem.com.br/)** - (2023 - ***Atualmente***)
+  * Desenvolvendo soluçôes backend corporativas para projetos financeiros
+* **Analista de Sistemas II, [GFT](https://www.gft.com/br/pt)** - (2021 - 2023)
   * Desenvolvendo soluçôes backend para projetos Mapfre
-  * Operando em sistemas financeiros da Credsystem, através do Mendix
+  * Operando em sistemas financeiros da Credsystem, através do Mendix, Java e Pl/Sql
 * **Programador Java Senior, [Meta](https://www.meta.com.br/)** - (2021 - 2021)
   * Desenvolvendo soluçôes backend e frontend para o ERP da Philips, Tasy. Utilizando Java, NodeJS, ReactJS, Pl/Sql
 * **Professor, Faculdade de Filosofia, Ciências e Letras de Cajazeiras** - (2021 - 2021)
@@ -37,14 +39,15 @@
 
 ---
 
-## :man_student: Educação
+## 👨‍🎓 Educação
 
-* :white_check_mark: **MBA em Projetos de Aplicações Digitais** - (Pós-Graduação) 
-* :white_check_mark: **Análise e Desenvolvimento de Sistemas, IFPB Campus Cajazeiras** - (Ensino Superior)
+* 🔳 MBA - **Arquitetura Full Cycle (Arquitetura de soluções, Arquitetura de software, DevOps e SRE)** - (Pós-Graduando)
+* ✅ MBA - **Projetos de Aplicações Digitais**
+* ✅ Ensino Superior - **Análise e Desenvolvimento de Sistemas, IFPB Campus Cajazeiras**
 
 ---
 
-## :books: Qualificação Educacional
+## 📚 Qualificação Educacional
 
 * **Scrum Fundamentals Certified**, SCRUMstudy
 * **Projeto de Extensão universitário**, PIBICT-IFPB (Viabilização do Desenvolvimento e a Implantação de Soluções de Tecnologia de Informação no Sertão Paraibano)
@@ -53,7 +56,7 @@
 
 ## 🛠 Habilidades
 
-> #### :muscle: Hard Skills
+> #### 💪 Hard Skills
 
 ##### **Back-end**
 
@@ -71,7 +74,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-> #### :sparkling_heart: Soft Skills
+> #### 💖 Soft Skills
 
 * Empatia
 * Liderança
